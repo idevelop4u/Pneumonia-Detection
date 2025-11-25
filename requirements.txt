@@ -1,0 +1,7 @@
+fastai
+torch
+torchvision
+pandas
+matplotlib
+streamlit
+scikit-learn
